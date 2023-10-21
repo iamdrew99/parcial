@@ -1,0 +1,167 @@
+.cuerpo {
+  background-color: #a5df00;
+  margin: 0%;
+  padding: 0%;
+}
+.contenedor {
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  margin-left: 50px;
+  margin-right: 25px;
+  border-radius: 20px;
+}
+.logo img {
+  border: solid #d8d8d8;
+  border-radius: 5px;
+  margin-left: 30px;
+  margin-top: 15px;
+  height: 120px;
+  width: 200px;
+  box-shadow: 20px 17px 0px #6e6e6e;
+}
+nav {
+  margin-top: 10px;
+  width: 100%;
+}
+nav ul {
+  padding: 15px;
+  margin-left: 35px;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul a {
+  color: black;
+  text-decoration: none;
+  padding: 35px;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+nav ul a:hover {
+  background: #a5df00;
+  border-radius: 10px 10px 0 0;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px #6e6e6e;
+}
+hr {
+  border: solid #a5df00 3px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+h2 {
+  margin-top: 30px;
+  font-style: italic;
+  margin-left: 70px;
+  font-size: 20px;
+}
+span {
+  color: #a5df00;
+  font-style: normal;
+}
+.col {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.col img {
+  width: 350px;
+  height: 200px;
+  padding: 10px;
+}
+
+footer {
+  height: 140px;
+}
+footer hr {
+  border: solid #a5df00 3px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+footer h2 {
+  text-align: center;
+  font-style: normal;
+  font-size: 25px;
+  margin-top: 15px;
+}
+footer p {
+  margin-left: 250px;
+  font-size: 20px;
+}
+.icons {
+  width: 150px;
+  height: 35px;
+  background-color: whitesmoke;
+  margin-right: 250px;
+  float: right;
+  font-size: 30px;
+  box-shadow: 4px 4px 0px #6e6e6e;
+  text-align: center;
+  position: relative;
+  bottom: 49px;
+}
+.col1 {
+  margin-left: 70px;
+  margin-right: 50px;
+  display: inline-block;
+  vertical-align: top;
+  width: 500px;
+  padding: 5px;
+}
+.col1 img {
+  width: 250px;
+  height: 150px;
+  border: gray solid 4px;
+  margin-left: 125px;
+}
+.col1 p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #696969;
+  font-size: 15px;
+}
+.col1 p span {
+  background-color: yellow;
+  color: black;
+}
+.col1 h3 {
+  text-align: center;
+}
+.col1 h6 {
+  text-align: center;
+  font-size: 15px;
+}
+
+.col2 img {
+  width: 200px;
+  height: 110px;
+  float: left;
+  position: relative;
+  left: 150px;
+  border: grey 5px solid;
+  bottom: 3px;
+}
+.col2 p {
+  margin-left: 200px;
+  text-align: center;
+}
+.anuncio {
+  text-align: center;
+}
+video {
+  border: 10px solid grey;
+  width: 60%;
+  height: auto;
+  border-radius: 20px;
+}
+.formulario {
+  text-align: center;
+}
+.formulario img {
+  border: 1px black solid;
+}
